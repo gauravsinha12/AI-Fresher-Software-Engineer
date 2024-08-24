@@ -12,6 +12,22 @@ Check out the demo video to see AI Fresher Engineer in action:
 
 Click the image above or [watch the demo on LinkedIn](https://www.linkedin.com/posts/gaurav-sinha-pro108_ai-coding-developertools-activity-7228961814791806976-ctmE?utm_source=share&utm_medium=member_desktop).
 
+## Screenshots
+
+Here are some screenshots of AI Fresher Engineer in action:
+
+![Screenshot 1](SS/111.PNG)
+*Task Given*
+
+![Screenshot 2](SS/112.PN)
+*Code Compilation and Execution*
+
+![Screenshot 3](SS/113.PN)
+*Error Resolution in Action*
+
+![Screenshot 4](SS/114.PN)
+*Data Analysis Results*
+
 ## Features
 
 - **Built-in Python Compiler**: Write, compile, and execute code directly within the tool.
