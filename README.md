@@ -8,11 +8,9 @@ AI Fresher Engineer is an AI-powered tool designed to assist freshers and junior
 
 Check out the demo video to see AI Fresher Engineer in action:
 
-![AI Fresher Engineer](https://images.unsplash.com/photo-1667388537155-42f16cf8e970?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDF8fGFjfGVufDB8fHx8MTY3NTc3NTMwMQ&ixlib=rb-4.0.3&q=80&w=1080)(https://www.linkedin.com/posts/gaurav-sinha-pro108_ai-coding-developertools-activity-7228961814791806976-ctmE?utm_source=share&utm_medium=member_desktop)
+[![AI Fresher Engineer Demo](https://raw.githubusercontent.com/gauravsinha12/AI-Fresher-Software-Engineer/main/brecht-corbeel-QUwM2LDVs3A-unsplash.jpg)](https://www.linkedin.com/posts/gaurav-sinha-pro108_ai-coding-developertools-activity-7228961814791806976-ctmE?utm_source=share&utm_medium=member_desktop)
 
 Click the image above or [watch the demo on LinkedIn](https://www.linkedin.com/posts/gaurav-sinha-pro108_ai-coding-developertools-activity-7228961814791806976-ctmE?utm_source=share&utm_medium=member_desktop).
-
-![AI Fresher Engineer](https://images.unsplash.com/photo-1667388537155-42f16cf8e970?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDF8fGFjfGVufDB8fHx8MTY3NTc3NTMwMQ&ixlib=rb-4.0.3&q=80&w=1080)
 
 ## Features
 
@@ -27,6 +25,6 @@ Click the image above or [watch the demo on LinkedIn](https://www.linkedin.com/p
 To get started with AI Fresher Engineer, clone this repository and install the necessary dependencies.
 
 ```bash
-git clone https://github.com/yourusername/ai-fresher-engineer.git
-cd ai-fresher-engineer
+git clone https://github.com/yourusername/yourrepo.git
+cd yourrepo
 pip install -r requirements.txt
