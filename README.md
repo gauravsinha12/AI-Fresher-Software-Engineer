@@ -19,13 +19,13 @@ Here are some screenshots of AI Fresher Engineer in action:
 ![Screenshot 1](SS/111.PNG)
 *Task Given*
 
-![Screenshot 2](SS/112.PN)
+![Screenshot 2](SS/112.PNG)
 *Code Compilation and Execution*
 
-![Screenshot 3](SS/113.PN)
+![Screenshot 3](SS/113.PNG)
 *Error Resolution in Action*
 
-![Screenshot 4](SS/114.PN)
+![Screenshot 4](SS/114.PNG)
 *Data Analysis Results*
 
 ## Features
