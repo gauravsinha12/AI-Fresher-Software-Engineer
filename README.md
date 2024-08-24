@@ -2,7 +2,7 @@
 
 ## Overview
 
-AI Fresher Engineer is an AI-powered tool designed to assist freshers and junior developers in their coding journey. This tool provides an integrated environment where users can write, compile, and run code, automatically resolve errors, perform data analysis tasks, and even receive real-time task management updates.
+AI Fresher Engineer is an AI-powered Solution Which can easily do the task given to a fresher engineer or a Fresher Data Analyst. It can make a whole program error free and also will save the file in your OS also as well as can analysi any data provided or asked to find.
 
 ## Demo Video
 
